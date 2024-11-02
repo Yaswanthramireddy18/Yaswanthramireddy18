@@ -1,23 +1,75 @@
-# Hey there! 👋 I'm Ramireddygari Yaswanth Reddy
+# Hi there, I'm Ramireddy Yaswanth Reddy 👋
 
-Welcome to my GitHub! I'm passionate about building projects and exploring new technologies. Currently, I'm diving into Java and C++, eager to expand my programming skills and create innovative solutions.
-
-## About Me
-
-- 👀 I'm keen on building meaningful projects that solve real-world problems.
-- 🌱 Currently, I'm delving deep into Java and C++, mastering the fundamentals and exploring advanced concepts.
-- 💼 I'm open to exciting opportunities and collaborations on new projects.
-- 📧 You can reach me at Yaswanthramireddy18@gmail.com.
-- 😄 Pronouns: He/Him
-
-## What I Bring to the Table
-
-With a strong foundation in programming and a passion for continuous learning, I'm dedicated to creating efficient, scalable, and robust solutions. My curiosity drives me to explore diverse domains and technologies, ensuring that I stay adaptable and innovative in my approach.
-
-## Let's Connect!
-
-I'm always excited to collaborate, exchange ideas, and contribute to meaningful projects. Whether you have a project in mind or want to chat about tech, feel free to reach out! Let's create something awesome together.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/yaswanthramireddy) 
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Yaswanthramireddy18) 
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:yaswanthramireddy18@gmail.com)
 
 ---
 
-Feel free to tweak this as you see fit! Let me know if you need more guidance or have specific preferences.
+### 👨‍🎓 About Me
+I’m an **Aspiring Electronics and Communication Engineer** with a passion for **Generative AI** and **Machine Learning**. My journey includes a strong foundation in **Python** and hands-on experience with AI models and tools. I am dedicated to continuous learning and am eager to leverage my skills to contribute to innovative projects that drive organizational growth.
+
+---
+
+### 🎓 Education
+- **Bachelor of Technology (B.Tech)** in Electronics and Communication Engineering  
+  **GITAM University, Bengaluru**  
+  *2021 - 2025* | **CGPA:** 8.69
+
+- **Intermediate | MPC**  
+  **Narayana Junior College, Vijayawada**  
+  *2019 - 2021* | **Percentage:** 93.5%
+
+- **SSC**  
+  **Montessori EM High School, Kurnool**  
+  *2018 - 2019* | **GPA:** 10
+
+---
+
+### 💼 Internship Experience
+- **Intel Unnati Industrial Training Program** (Summer Intern)  
+  *May - July 2024*  
+  - Built a custom chatbot using **Generative AI** and **LLMs**, optimized with **Intel® OpenVINO™** on Intel AI laptops.
+  - Gained experience fine-tuning LLMs, integrating CPU-based processing, and deploying a functional chatbot solution.
+
+---
+
+### 🛠️ Projects
+- **Bank Churn Prediction Model**  
+  *June - July 2024*  
+  Developed a predictive machine learning model to identify at-risk customers based on demographics and account activity, helping banks enhance their retention strategies.
+
+- **Custom Chatbot using Generative AI and Meta Llama 3-8b Instruct**  
+  *May - July 2024*  
+  Designed and deployed a chatbot as part of Intel Unnati’s program, managing environment setup, UI design, and model deployment.
+
+---
+
+### 💡 Skills
+- **Data Science:** Machine Learning, Artificial Intelligence, Deep Learning  
+- **Programming Languages:** Python  
+- **Soft Skills:** Problem-Solving, Teamwork, Adaptability, Leadership  
+
+---
+
+### 📜 Certifications
+- **Generative AI Specialization** | IBM  
+- **What is Data Science** | IBM  
+- **Google Workspace** | Google  
+- **Machine Learning for All** | University of London  
+
+---
+
+### 🏆 Achievements
+- **10 CGPA** in SSC, demonstrating strong academic performance.
+- **GITAM Entrance Exam Scholarship** recipient.
+
+---
+
+### ⚽ Hobbies
+- Watching Football  
+- Watching Movies  
+
+---
+
+Looking forward to collaborating on exciting projects! Reach out if you'd like to connect or work together!
