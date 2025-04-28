@@ -14,7 +14,7 @@ I’m an **Aspiring Electronics and Communication Engineer** with a passion for 
 ### 🎓 Education
 - **Bachelor of Technology (B.Tech)** in Electronics and Communication Engineering  
   **GITAM University, Bengaluru**  
-  *2021 - 2025* | **CGPA:** 8.69
+  *2021 - 2025* | **CGPA:** 8.77
 
 - **Intermediate | MPC**  
   **Narayana Junior College, Vijayawada**  
